@@ -4,9 +4,9 @@
   
 ### Full-Stack Developer | Building Scalable Solutions
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF0000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faisalmurad.netlify.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-181717?style=for-the-badge&logo=google-chrome&logoColor=white)](https://faisalmurad.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/faisalmurad01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalmurad.dev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:faisalmurad.dev@gmail.com)
 
 </div>
 
@@ -94,7 +94,7 @@ A sports merchandise platform with real-time customization capabilities:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisal-murad&theme=github-dark-blue&hide_border=true)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faisal-murad&theme=github-compact&hide_border=true)
+[![Faisal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faisal-murad&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/faisal-murad)
 
 </div>
 
@@ -123,6 +123,6 @@ I'm always open to interesting conversations and collaboration opportunities!
   
 ### 💭 "Code is like music - it's all about the rhythm and harmony"
 
-![Profile Views](https://komarev.com/ghpvc/?username=faisal-murad&color=FF0000&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=faisal-murad&color=blue&style=flat-square)
 
 </div>
