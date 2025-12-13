@@ -88,11 +88,13 @@ A sports merchandise platform with real-time customization capabilities:
 
 <div align="center">
   
-![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisal-murad&show_icons=true&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&icon_color=FF0000&border_color=FF0000)
+![Faisal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faisal-murad&show_icons=true&theme=github_dark&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-murad&layout=compact&theme=dark&bg_color=000000&title_color=FF0000&text_color=FFFFFF&border_color=FF0000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faisal-murad&layout=compact&theme=github_dark&hide_border=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisal-murad&theme=dark&background=000000&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&border=FF0000)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisal-murad&theme=github-dark-blue&hide_border=true)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faisal-murad&theme=github-compact&hide_border=true)
 
 </div>
 
