@@ -94,7 +94,7 @@ A sports merchandise platform with real-time customization capabilities:
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=faisal-murad&theme=github-dark-blue&hide_border=true)
 
-[![Faisal's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=faisal-murad&theme=github-compact&hide_border=true&custom_title=Contribution%20Graph)](https://github.com/faisal-murad)
+![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-murad&theme=github_dark)
 
 </div>
 
