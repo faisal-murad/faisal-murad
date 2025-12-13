@@ -96,6 +96,8 @@ A sports merchandise platform with real-time customization capabilities:
 
 ![Contribution Graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisal-murad&theme=github_dark)
 
+![Snake animation](https://raw.githubusercontent.com/faisal-murad/faisal-murad/output/snake.svg)
+
 </div>
 
 ---
